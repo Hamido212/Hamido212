@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">I'm Hamid Yosefzai from Afghanistan currently living in <a href="https://www.google.com/maps/place/Bremen/@53.1200314,8.7362858,11z/data=!3m1!4b1!4m6!3m5!1s0x47b128100ceee335:0xc2e8885cf937df51!8m2!3d53.0792962!4d8.8016936!16zL20vMDE3d18" target="_blank" rel="nofollow">Bremen, Germany</a>. A student who really enjoys learning programming languages.</p>
+<p align="left">I'm Hamid currently living in <a href="https://www.google.com/maps/place/Bremen/@53.1200314,8.7362858,11z/data=!3m1!4b1!4m6!3m5!1s0x47b128100ceee335:0xc2e8885cf937df51!8m2!3d53.0792962!4d8.8016936!16zL20vMDE3d18" target="_blank" rel="nofollow">Bremen, Germany</a>. A student who really enjoys learning programming languages.</p>
 
 ###
 
