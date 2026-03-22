@@ -1,59 +1,60 @@
-[![MasterHead](https://art.pixilart.com/sr2c64c3ddac8f2.gif)](hiibo.de)
+# 👋 Hey, I'm Hamid!
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Hamido212&label=Profile%20Views&color=0e75b5&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Hamido212?label=Follow&style=social" alt="followers" />
+</p>
 
-###
+---
 
-<h2 align="left">Hi 👋! My name is Hamid and I'm a Computer Science Student  from germany</h2>
+### 🎓 About Me
 
-###
+- 🔹 Computer Science Student at **University of Bremen, Germany**
+- 🔹 Passionate about building innovative solutions and learning new technologies
+- 🔹 Currently focused on: **Python**, **Machine Learning**, **Web Development**
 
-<h2 align="left">Basic info about me:</h2>
+---
 
-###
+### 🛠️ Tech Stack
 
-<p align="left">I'm Hamid currently living in <a href="https://www.google.com/maps/place/Bremen/@53.1200314,8.7362858,11z/data=!3m1!4b1!4m6!3m5!1s0x47b128100ceee335:0xc2e8885cf937df51!8m2!3d53.0792962!4d8.8016936!16zL20vMDE3d18" target="_blank" rel="nofollow">Bremen, Germany</a>. A student who really enjoys learning programming languages.</p>
-
-###
-
-<blockquote><p align="left">🌱 Currently learning Python 🐍, Machine Learning 🤖, Web Developement 🌐</p></blockquote>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" height="30" width="42" alt="haskell logo"  />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,react,javascript,html,css,java,haskell,git,docker,mysql,nodejs,typescript&perline=6" />
 </div>
 
-###
+---
 
-<div align="left">
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hamido212&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hamido212&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180" alt="languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Hamido212&theme=radical&hide_border=true" height="180" alt="streak" />
+</div>
+
+---
+
+### 🔗 Connect With Me
+
+<div align="center">
+  <a href="mailto:hamidyosefzai1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
   <a href="https://www.instagram.com/hamidyosefzaii/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
   </a>
   <a href="https://discordapp.com/users/670957399393304588" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
   </a>
-  <a href="hamidyosefzai1@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <a href="https://hiibo.de" target="_blank">
+    <img src="https://img.shields.io/badge/Website-2b3137?style=for-the-badge&logo=firefox&logoColor=white" alt="website" />
   </a>
 </div>
 
-###
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=Hamido212" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=Hamido212" height="150" alt="languages graph"  />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Thanks%20for%20visiting!&height=100&section=footer" />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Hamido212/count.svg?"  />
-</div>
-
-###
