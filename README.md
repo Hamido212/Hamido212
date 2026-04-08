@@ -7,7 +7,7 @@ Software engineer & founder from Bremen, Germany. I build products with convicti
 ### 🎯 Currently Working On
 
 - [Brieffix](https://brieffix.de) — AI letter generator for German bureaucracy
-- [Dolmetschernetz](https://dolmetschernetz.de) — Germany's interpreter marketplace
+- [Dolmetschernetz](https://dolmetschernetz.com) — Germany's interpreter marketplace
 
 ---
 
